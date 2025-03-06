@@ -1,4 +1,4 @@
-package com.minhnbnt.jwt
+package com.group4.chatapp
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

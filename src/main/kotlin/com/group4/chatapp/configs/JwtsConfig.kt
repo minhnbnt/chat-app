@@ -1,4 +1,4 @@
-package com.minhnbnt.jwt.configs
+package com.group4.chatapp.configs
 
 import com.nimbusds.jose.jwk.JWKSet
 import com.nimbusds.jose.jwk.RSAKey

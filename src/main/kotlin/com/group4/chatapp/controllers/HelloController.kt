@@ -1,6 +1,6 @@
-package com.minhnbnt.jwt.controllers
+package com.group4.chatapp.controllers
 
-import com.minhnbnt.jwt.services.UserService
+import com.group4.chatapp.services.UserService
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.security.core.Authentication
 import org.springframework.web.bind.annotation.GetMapping

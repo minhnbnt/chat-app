@@ -1,4 +1,6 @@
-package com.minhnbnt.jwt.models
+@file:Suppress("com.intellij.jpb.NoArgsConstructorInspection")
+
+package com.group4.chatapp.models
 
 import jakarta.persistence.*
 import org.springframework.security.core.GrantedAuthority

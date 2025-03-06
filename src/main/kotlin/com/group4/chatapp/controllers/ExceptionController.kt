@@ -1,4 +1,4 @@
-package com.minhnbnt.jwt.controllers
+package com.group4.chatapp.controllers
 
 import org.springframework.http.HttpStatus
 import org.springframework.validation.FieldError

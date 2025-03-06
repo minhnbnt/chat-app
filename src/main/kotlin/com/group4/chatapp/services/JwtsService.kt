@@ -1,8 +1,8 @@
-package com.minhnbnt.jwt.services
+package com.group4.chatapp.services
 
-import com.minhnbnt.jwt.dtos.UserDto
-import com.minhnbnt.jwt.dtos.tokens.TokenObtainPairDto
-import com.minhnbnt.jwt.dtos.tokens.TokenRefreshResponseDto
+import com.group4.chatapp.dtos.UserDto
+import com.group4.chatapp.dtos.tokens.TokenObtainPairDto
+import com.group4.chatapp.dtos.tokens.TokenRefreshResponseDto
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.beans.factory.annotation.Value
 import org.springframework.security.authentication.AuthenticationManager

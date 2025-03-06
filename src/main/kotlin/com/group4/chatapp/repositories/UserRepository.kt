@@ -1,6 +1,6 @@
-package com.minhnbnt.jwt.repositories
+package com.group4.chatapp.repositories
 
-import com.minhnbnt.jwt.models.User
+import com.group4.chatapp.models.User
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 

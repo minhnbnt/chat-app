@@ -1,8 +1,8 @@
-package com.minhnbnt.jwt.services
+package com.group4.chatapp.services
 
-import com.minhnbnt.jwt.dtos.UserDto
-import com.minhnbnt.jwt.models.User
-import com.minhnbnt.jwt.repositories.UserRepository
+import com.group4.chatapp.dtos.UserDto
+import com.group4.chatapp.models.User
+import com.group4.chatapp.repositories.UserRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.HttpStatus
 import org.springframework.security.core.Authentication

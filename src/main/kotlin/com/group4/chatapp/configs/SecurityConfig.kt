@@ -1,6 +1,6 @@
-package com.minhnbnt.jwt.configs
+package com.group4.chatapp.configs
 
-import com.minhnbnt.jwt.repositories.UserRepository
+import com.group4.chatapp.repositories.UserRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

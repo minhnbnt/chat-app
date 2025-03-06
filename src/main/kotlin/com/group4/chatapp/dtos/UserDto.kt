@@ -1,4 +1,4 @@
-package com.minhnbnt.jwt.dtos
+package com.group4.chatapp.dtos
 
 import jakarta.validation.constraints.NotEmpty
 

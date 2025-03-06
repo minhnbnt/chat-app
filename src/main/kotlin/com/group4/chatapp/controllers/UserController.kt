@@ -1,9 +1,9 @@
-package com.minhnbnt.jwt.controllers
+package com.group4.chatapp.controllers
 
-import com.minhnbnt.jwt.dtos.tokens.TokenRefreshDto
-import com.minhnbnt.jwt.dtos.UserDto
-import com.minhnbnt.jwt.services.JwtsService
-import com.minhnbnt.jwt.services.UserService
+import com.group4.chatapp.dtos.tokens.TokenRefreshDto
+import com.group4.chatapp.dtos.UserDto
+import com.group4.chatapp.services.JwtsService
+import com.group4.chatapp.services.UserService
 import jakarta.validation.Valid
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.http.HttpStatus
